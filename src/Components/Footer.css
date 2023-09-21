@@ -1,0 +1,32 @@
+.footer {
+    max-width: 100%;
+    margin: 1rem auto;
+    overflow: auto;
+    /* color: grey; */
+    /* background-color: black; */
+  
+    
+  }
+  .footer,
+  .footer a {
+    color: #999;
+    font-size: 0.9rem;
+    text-decoration: none;
+  }
+   hr{
+    height: 20px;
+  
+   }
+  .footer .footer-cols {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 2rem;
+    
+
+  }
+  .footer li {
+    line-height: 1.9;
+    list-style: none;
+    
+  }
+ 

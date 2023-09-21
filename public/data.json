@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "title": "Realme Narzo 60 5G",
+      "imageSrc": "https://image01.realme.net/general/20230705/16885310238596ce574a854b4450d838f5d7ffb6992d4.png.webp?width=1440&height=1440&size=730480",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit for Product 1.",
+      "price": "₹17,999"
+    },
+    {
+      "id": 2,
+      "title": "Realme 11 Pro+ 5G",
+      "imageSrc": "https://image01.realme.net/general/20230608/1686196034266e84391de43944a599cdec535212ef4f6.png?width=1440&height=1440&size=710277.webp",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit for Product 2.",
+      "price": "₹27,999"
+    },
+    {
+      "id": 3,
+      "title": "Realme 11X 5G",
+      "imageSrc": "https://image01.realme.net/general/20230816/169217909841167ae33fdd1934aee909e24195d52e295.png?width=1440&height=1440&size=463451.webp",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit for Product 3.",
+      "price": "₹14,999"
+    },
+    {
+      "id": 4,
+      "title": "Realme C53",
+      "imageSrc": "https://image01.realme.net/general/20230718/168965097130763a88d54f0d74e67983cc4cdd7d97ed5.png?width=1440&height=1440&size=477649.webp",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit for Product 3.",
+      "price": "₹9,999"
+    },
+    {
+      "id": 5,
+      "title": "Realme GT NEO 3",
+      "imageSrc": "https://image01.realme.net/general/20220429/1651221211595.png.webp",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit for Product 3.",
+      "price": "₹28,999"
+    }, {
+      "id": 6,
+      "title": "Realme Narzo 60 5G",
+      "imageSrc": "https://image01.realme.net/general/20230705/16885310238596ce574a854b4450d838f5d7ffb6992d4.png?width=1440&height=1440&size=730480.webp",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit for Product 3.",
+      "price": "₹23,999"
+    }, {
+      "id": 7,
+      "title": "Realme Buds T300",
+      "imageSrc": "https://image01.realme.net/general/20230906/1693972130157e135186bb9304b4a978a37bf185e1a68.png?width=1440&height=1440&size=457703.webp",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit for Product 3.",
+      "price": "₹2,999"
+    },
+    {
+      "id": 4,
+      "title": "Realme Buds Air5",
+      "imageSrc": "https://image01.realme.net/general/20230810/1691642674931f03d46c07dd34825ac13bd9e3b76b7dc.png?width=1440&height=1440&size=236964.webp",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit for Product 3.",
+      "price": "₹3,999"
+    }
+   
+  ]
+  
