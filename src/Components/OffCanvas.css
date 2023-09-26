@@ -1,0 +1,22 @@
+main form input{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    /* margin-left: 70px; */
+}
+main {
+    margin-left: 50px;
+}
+.btn1{
+    
+    margin-right: 20px;
+    margin-top: 10px;
+    background-color: rgb(194, 166, 9);
+    color: black;
+    border-radius: 15px;
+    display: inline-block;
+}
+h1{
+    margin-left: 20px;
+}

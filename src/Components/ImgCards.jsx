@@ -27,13 +27,14 @@ const ImgCards = () => {
             <img src={product.imageSrc} alt={product.title} />
             <p>{product.description}</p>
             <p>{product.price}</p>
-            <button className='btn1'>Add</button>
-            <button className='btn2'>Remove</button>
+            <button className='btn0'>Add</button>
+            <button className='btn0'>Remove</button>
           </li>
         ))}
       </ul>
 
     </div>
+    <h2>Hot Deals</h2>
     
     </>
 

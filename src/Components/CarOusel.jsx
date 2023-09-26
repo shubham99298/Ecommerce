@@ -2,6 +2,8 @@ import React from 'react'
 import Carousel from 'react-bootstrap/Carousel';
 
 
+
+
 const CarOusel = () => {
   return (
     <div>
@@ -41,6 +43,7 @@ const CarOusel = () => {
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
+   
     </div>
   )
 }

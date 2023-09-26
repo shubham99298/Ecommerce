@@ -5,23 +5,20 @@ import NavBar from "./Components/NavBar";
 import ImgCards from "./Components/ImgCards";
 import Footer from "./Components/Footer";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import Contact from "./Components/Contact";
+import Banner from "./Components/Banner";
 
 function App() {
   return (
-    <div>
+
       <Router>
         <NavBar />
         <CarOusel />
         <ImgCards />
-
-        <Routes>
-          <Route path="/contact" element={<Contact />}></Route>
-        </Routes>
-
+        <Banner/>
+      
         <Footer />
       </Router>
-    </div>
+   
   );
 }
 

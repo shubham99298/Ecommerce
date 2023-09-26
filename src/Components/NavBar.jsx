@@ -4,11 +4,12 @@ import Nav from "react-bootstrap/Nav";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import Container from "react-bootstrap/Container";
 import { Link } from "react-router-dom";
-
+import OffCanvas from "./OffCanvas";
 
 
 const NavBar = () => {
   return (
+  
     <Navbar
       expand="lg"
       style={{ boxShadow: " 0 4px 8px 0 rgba(0,0,0,0.2)", color: "black" }}
@@ -41,12 +42,13 @@ const NavBar = () => {
           </Nav>
           <Nav>
             <Nav.Link href="#cart">Cart</Nav.Link>
-            <Nav.Link href="#account">Account</Nav.Link>
+            <Nav.Link href="#account">{<OffCanvas/>}</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
      
     </Navbar>
+    
   );
 };
 
